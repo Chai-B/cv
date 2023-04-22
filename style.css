@@ -1,0 +1,23 @@
+hr{
+    color:#66BFBF;
+}
+#leftbox {
+    float:left;
+    width:50%;
+    height:280px;
+}
+#rightbox{
+    float:right;
+    width:50%;
+    height:280px;
+}
+body{
+    background-color: #EAF6F6;
+    
+}
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
